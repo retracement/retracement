@@ -1,4 +1,10 @@
-### Hi there 👋
+Microsoft Certified Master MCM of SQL Server and former 7 time Microsoft Data Platform MVP focusing on Microsoft Azure, Azure DevOps, SQL Server, Administration, Development, Business Intelligence, Docker, Data Factory, and Cosmos DB. I also have strong expertise in concurrency, performance, high availability, disaster recovery, virtualization, Windows and Linux, C# and .NET.
+
+I am a technical reviewer to SQL Server Query Tuning and Optimization: Optimize Microsoft SQL Server 2022 queries and applications (published 2022, Apress), technical editor to SQL Server on Linux (published 2018, McGraw-Hill), and technical reviewer of Expert SQL Server Transactions and Locking Concurrency Internals for SQL Server Practitioners (published 2018, Apress).
+
+I am a strong believer in community and am the current event lead organiser to SQLSaturday Cambridge, SharePoint Saturday Cambridge, Hybrid Virtual Group and East Anglia SQL Server User Group - and the recipient of the PASS Outstanding Volunteer award and Microsoft Community Contributor awards.
+
+I am an experienced international conference speaker, having delivered sessions to hundreds of events including Future Decoded, PASS Summit, SQLRally, SQLSaturday, SQL Nexus, SQLBits, 24 Hours of PASS, and SQLRelay.
 
 <!--
 **retracement/retracement** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
